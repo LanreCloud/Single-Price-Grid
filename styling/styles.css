@@ -1,0 +1,106 @@
+body{
+    background-color:hsl(204, 43%, 93%);
+}
+p{
+    padding: 3px;
+    word-spacing: 2px;
+    font-family: 'Karla', sans-serif;
+}
+
+.button{
+    background-color: hsl(71, 73%, 54%);
+    color: hsl(204, 43%, 93%);
+    border: none;
+    padding: 20px;
+    width: 100%;
+}
+                                /* whole_container */
+
+.container-fluid{
+    width: 720px;
+    border-radius: 15%;
+    padding: 30px;
+    font-size: 16px;
+    font-family: 'Karla', sans-serif;
+}
+.row no-gutters{
+    border-top-left-radius: .3rem;
+    border-top-right-radius: .3rem;
+}
+
+                                /* container_1 */
+.container_1{
+    padding: 30px;
+    /* padding-bottom: 30px; */
+    background-color: white;
+    border-end-end-radius: 10%;
+    line-height: 2rem;
+    border-top-left-radius: .3rem;
+    border-top-right-radius: .3rem;
+}
+.header_1{
+    color:hsl(179, 62%, 43%);
+    padding-bottom: 15px;
+}
+.subhead_1{
+    color: hsl(71, 73%, 54%);
+}
+.subhead_2{
+    color: hsl(218, 22%, 67%);
+    word-spacing: 5px;
+}
+
+                                /* Row_first_grid */
+
+
+.first_grid{
+    background-color: hsl(179, 71%, 36%);
+    padding: 30px;
+    padding-bottom: 45px;
+    color: hsl(204, 43%, 93%);
+    border-bottom-left-radius: .3rem;
+   
+}
+span{
+    padding: 10px;
+    padding-left: 0em;
+    font-family:  'Karla', sans-serif;
+    font-weight: 700;
+
+}
+h3{
+    font-size: 1.4rem;
+    font-family: 'Karla', sans-serif;
+    font-weight: 700 ;
+}
+                                /* Row_second_grid */
+
+.second_grid{
+    padding: 30px;
+    background-color: hsl(179, 62%, 43%);
+    color:  hsl(204, 43%, 93%);
+    padding-bottom: 19px;
+    line-height: 0.4rem;
+    border-bottom-right-radius: .3rem;
+}
+
+.header_2{
+    font-family: 'Karla', sans-serif;
+    font-weight: 700;
+    padding: 10px 0px 0px;
+}
+.header_3{
+    padding-bottom: 17px;
+    font-family: karla;
+    font-weight: 700;
+}
+
+                                /* footer */
+
+.footer{
+    color: hsl(179, 62%, 43%);
+    text-align: center;
+    font-size: 0.8rem;
+    padding:0px 0px 10px;
+    font-family: karla;
+}                                
